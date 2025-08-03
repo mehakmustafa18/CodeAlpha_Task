@@ -1,0 +1,5 @@
+# List of Python dependencies
+tensorflow
+music21
+numpy
+keras
